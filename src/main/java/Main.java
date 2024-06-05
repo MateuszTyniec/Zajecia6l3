@@ -13,7 +13,8 @@ Poniższe zadania będą się sprowadzały do modyfikacji bazowego kodu. Proces 
 //Niepoprawny wiek – gdy jest mniejszy od 0 lub większy niż 100. Niepoprawna data urodzenia – gdy nie jest zapisana w formacie DD-MM-YYYY, np. 28-02-2023.
 
 import java.io.IOException;
-import java.util.Scanner;
+import java.util.Scanner; 
+
 import java.io.IOException;
 
 class WrongStudentName extends Exception { }
